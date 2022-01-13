@@ -2,7 +2,7 @@
 
 "Detectando ironías con LSTM y Tensorflow"
 
-In this repository you will find an irony classifier that classifies twitter opinions into 0 (not ironic) or 1 (ironic).
+In this repository you will find how to create and evaluate an irony classifier that classifies twitter opinions into 0 (not ironic) or 1 (ironic).
 
 The dataset used is from the International Workshop on Semantic Evaluation 2018 Task 3 Subtask A (https://github.com/Cyvhee/SemEval2018-Task3/tree/master/datasets). This was transformed to a csv file.
 
