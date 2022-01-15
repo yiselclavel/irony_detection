@@ -13,6 +13,7 @@ from tensorflow_core.python.keras.layers import LSTM, Flatten
 import matplotlib.pyplot as plt
 from tensorflow_core.python.keras.saving import load_model
 
+# gpu memory issues
 # os.environ["CUDA_VISIBLE_DEVICES"] = "0"
 # config = tf.compat.v1.ConfigProto()
 # config.gpu_options.allow_growth=True
