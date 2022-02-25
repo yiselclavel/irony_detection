@@ -1,5 +1,5 @@
 # Irony detection with LSTM y Tensorflow - Pyhton Pizza Holguín 2022
-https://www.youtube.com/watch?v=FoUV3eiKZPE&t=2712s
+https://www.youtube.com/watch?v=cSLjgpdWytU&list=PLZwPvfQ1ZURcrfYuNuJbnCNLK7ufqK9Z2&index=13&t=205s
 
 "Detectando ironías con LSTM y Tensorflow" 
 
