@@ -13,7 +13,7 @@ For words representation, I used the word-embedding model GloVe with 100 dimensi
 
 Download and unzip "glove.6B.100d.txt" from https://nlp.stanford.edu/data/glove.6B.zip
 
-Packages used:
+Packages used (Python 3.7):
 - Tensorflow 2.0
 - Scikit-learn 0.20.3
 - Pandas 0.24.2
