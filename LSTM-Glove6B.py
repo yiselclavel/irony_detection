@@ -85,7 +85,7 @@ class IronyClassifier:
         model = Sequential()
         model.add(Embedding(input_dim=vocab_size, output_dim=EMBEDDING_DIM,
                             input_length=MAX_SEQUENCE_LENGTH, weights=[embeddings_matrix], trainable=True))
-        model.add(LSTM(32, return_sequences=False, dropout=0.2))
+        model.add(LSTM(32, return_sequences=False, dropout=0.5))
         model.add(Dense(32, activation='relu'))
         model.add(Dropout(rate=0.5))
         model.add(Flatten())
